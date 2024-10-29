@@ -1,0 +1,74 @@
+.aphg-gpu-acceleration{
+    -webkit-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+.aphg-gp-gif-element{
+    position: static !important;
+
+}
+.aphg-click-disable,
+.aphg-click-disable~.aphg-play-gif {
+    pointer-events:none
+}
+.aphg-remove-player~.aphg-play-gif{
+    display:none;
+}
+.aphg-gifplayer-wrapper .aphg-front-gif{
+    margin: 0;
+}
+span.aphg-play-gif{
+    position: absolute;
+    font-family: Arial, sans serif;
+    width: 50px;
+    height: 50px;
+    line-height: 45px;
+    text-align: center;
+    background: #222;
+    font-size: 18px;
+    color: #fff;
+    border-radius: 50%;
+    opacity: .9;
+    border: 4px solid #fff;
+    cursor:pointer;
+    text-decoration: none;
+    top: 0!important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    margin: auto;
+    margin-bottom: auto !important;
+}
+
+span.aphg-play-gif:hover{
+    opacity:.5;
+}
+
+.aphg-gifplayer-wrapper{
+    position:relative !important;
+    display: inline-block;
+}
+
+.aphg-spinner {
+    height: 50px;
+    width: 50px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-image: url(../images/spinner.gif);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.aphg-front-gif,
+.aphg-gp-gif-element{
+    cursor: pointer;
+    background-image:url('../images/spinner.gif');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 50px;
+}

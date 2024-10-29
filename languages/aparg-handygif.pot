@@ -1,0 +1,243 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Aparg HandyGIF\n"
+"POT-Creation-Date: 2018-02-05 15:39+0400\n"
+"PO-Revision-Date: 2018-01-22 14:37+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: aparg-handygif.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: aparg-handygif.php:70
+msgid ""
+"GIF bot must be latin lowercase word with length of minimum two and maximum "
+"five characters"
+msgstr ""
+
+#: aparg-handygif.php:71
+msgid "Hot key must be single latin lowercase letter"
+msgstr ""
+
+#: aparg-handygif.php:72
+msgid "Search GIFs"
+msgstr ""
+
+#: aparg-handygif.php:73
+msgid "Play On"
+msgstr ""
+
+#: aparg-handygif.php:74 aparg-handygif.php:206
+msgid "Hover"
+msgstr ""
+
+#: aparg-handygif.php:75 aparg-handygif.php:208
+msgid "Click"
+msgstr ""
+
+#: aparg-handygif.php:76 aparg-handygif.php:209
+msgid "View"
+msgstr ""
+
+#: aparg-handygif.php:77
+msgid "Choose GIF"
+msgstr ""
+
+#: aparg-handygif.php:78
+msgid "Something went wrong"
+msgstr ""
+
+#: aparg-handygif.php:79
+msgid "Sorry can't insert GIF "
+msgstr ""
+
+#: aparg-handygif.php:80
+msgid "No Gifs found"
+msgstr ""
+
+#: aparg-handygif.php:228
+msgid "Shearch GIFs"
+msgstr ""
+
+#: aparg-handygif.php:266 aphg-settings-page.php:9
+msgid "HandyGIF"
+msgstr ""
+
+#: aparg-handygif.php:271
+msgid "Content"
+msgstr ""
+
+#: aparg-handygif.php:277
+msgid "Choose GIFs"
+msgstr ""
+
+#: aparg-handygif.php:280
+msgid "Select GIF from media library"
+msgstr ""
+
+#: aparg-handygif.php:284
+msgid "Play On:"
+msgstr ""
+
+#: aparg-handygif.php:291
+msgid "URL (Link)"
+msgstr ""
+
+#: aparg-handygif.php:297
+msgid "Add custom link."
+msgstr ""
+
+#: aparg-handygif.php:301
+msgid "Gif Size"
+msgstr ""
+
+#: aparg-handygif.php:303
+msgid ""
+"Enter image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by theme). Alternatively enter size in pixels (Example: "
+"200x100 (Width x Height)). Leave parameter empty to use \"thumbnail\" by "
+"default."
+msgstr ""
+
+#: aparg-handygif.php:307
+msgid "Extra Class Name"
+msgstr ""
+
+#: aparg-handygif.php:313
+msgid "Image alignment"
+msgstr ""
+
+#: aparg-handygif.php:316
+msgid "Left"
+msgstr ""
+
+#: aparg-handygif.php:317
+msgid "Right"
+msgstr ""
+
+#: aparg-handygif.php:318
+msgid "Center"
+msgstr ""
+
+#: aparg-handygif.php:323
+msgid "Css"
+msgstr ""
+
+#: aparg-handygif.php:325
+msgid "Design options"
+msgstr ""
+
+#: aparg-handygif.php:547
+msgid "To unlock all Gfycat features please fill API credentials  in "
+msgstr ""
+
+#: aparg-handygif.php:547
+msgid "Settings "
+msgstr ""
+
+#: aparg-handygif.php:547
+msgid " page"
+msgstr ""
+
+#: aphg-settings-page.php:28
+msgid "Settings Saved."
+msgstr ""
+
+#: aphg-settings-page.php:39
+msgid "Settings"
+msgstr ""
+
+#: aphg-settings-page.php:40
+msgid "GIFs powered by"
+msgstr ""
+
+#: aphg-settings-page.php:40
+msgid "Developed by"
+msgstr ""
+
+#: aphg-settings-page.php:48
+msgid "Hot Key"
+msgstr ""
+
+#: aphg-settings-page.php:51
+msgid "Ctrl + "
+msgstr ""
+
+#: aphg-settings-page.php:58
+msgid "Gif Bot"
+msgstr ""
+
+#: aphg-settings-page.php:61
+msgid " @ "
+msgstr ""
+
+#: aphg-settings-page.php:68
+msgid "Hardwere Acceleration On Insert"
+msgstr ""
+
+#: aphg-settings-page.php:80
+msgid "API Credentials"
+msgstr ""
+
+#: aphg-settings-page.php:86
+msgid "To get Gfycat API credentials please"
+msgstr ""
+
+#: aphg-settings-page.php:86
+msgid "sign up"
+msgstr ""
+
+#: aphg-settings-page.php:86
+msgid ""
+",create project and you will receive your client id and secret. For more "
+"information check "
+msgstr ""
+
+#: aphg-settings-page.php:87
+msgid "Gfycat documentation"
+msgstr ""
+
+#: aphg-settings-page.php:93
+msgid "Gfycat client id"
+msgstr ""
+
+#: aphg-settings-page.php:98
+msgid "Get Credentials"
+msgstr ""
+
+#: aphg-settings-page.php:108
+msgid "Gfycat client secret"
+msgstr ""
+
+#: aphg-settings-page.php:122
+msgid "Save Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Aparg HandyGIF"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"With HandyGIF you will be able to make your WordPress post more trending by "
+"inserting GIFs into it."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Aparg"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://aparg.com/"
+msgstr ""
